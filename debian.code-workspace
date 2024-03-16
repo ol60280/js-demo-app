@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:/debian"
+		},
+		{
+			"path": "../../../../app"
+		},
+		{
+			"name": "app",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
